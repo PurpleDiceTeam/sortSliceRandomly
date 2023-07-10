@@ -1,3 +1,3 @@
-module github.com/PurpleDiceTeam/go-package-sortSliceRandomly
+module github.com/PurpleDiceTeam/sortSliceRandomly
 
 go 1.20
